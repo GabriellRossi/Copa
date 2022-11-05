@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um calendario com informações dos jogos da copa do mundo
+Um calendario com informações dos jogos da copa 2022. 
 
 ## 🔖 Layout
 
