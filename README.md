@@ -1,4 +1,6 @@
-# ROCKETPAY
+<p align="center">
+  NLW - Calendario Da Copa
+</p>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
