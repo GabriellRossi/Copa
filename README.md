@@ -1,5 +1,5 @@
 <p align="center">
-  NLW - Calendario Da Copa
+  <img src="./assets/logo.svg" width="100%">
 </p>
 
 <p align="center">
